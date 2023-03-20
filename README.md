@@ -2,7 +2,7 @@
 
 Google Cloud da un plan gratuito de 90 días. Por lo tanto, será la opción preferible para la asignatura de ISI (UGR) 22/23.
 
-## Pasos para la práctica:
+## Pasos desplegar un hola mundo:
 
 ### Para empezar en Google Cloud:
 * Crear una cuenta en Google Cloud con el plan gratuito de 90 días.
