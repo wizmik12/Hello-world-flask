@@ -14,4 +14,4 @@ Google Cloud da un plan gratuito de 90 días. Por lo tanto, será la opción pre
 * `gcloud init`
 * `gcloud app deploy`
 
-** No olvidéis apagar la máquina cuando terminéis de usarla para que no se hagan cobros.**
+**No olvidéis apagar la máquina cuando terminéis de usarla para que no se hagan cobros.**
