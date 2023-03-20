@@ -11,7 +11,7 @@ Google Cloud da un plan gratuito de 90 días. Por lo tanto, será la opción pre
 * Crear un proyecto nuevo.
 
 ### Desplegar la app
-* Usa el código en la ruta "hello_world/"
+* Usa el código en la ruta `hello_world/`
 * `gcloud init`
 * `gcloud app deploy`
 
