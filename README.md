@@ -1,4 +1,4 @@
-# Despliegue 'Hola Mundo' usando flask en Google Cloud
+# Despliegue en Google Cloud de una app con Flask
 
 Google Cloud da un plan gratuito de 90 días. Por lo tanto, será la opción preferible para la asignatura de ISI (UGR) 22/23.
 
